@@ -20,8 +20,8 @@ This repository contains the code for the **Generative AI Language Translator** 
 To get started with this project, you need to set up the environment. The project uses Python and virtual environments to manage dependencies. Here's how you can set up the project and the environment on your local machine:
 
 ### <span style="color: #FF5722;">1. Clone the Repository</span>
-git clone https://github.com/Adiitya2328/Generative-A-I-Language-Translator.git
-cd Generative-A-I-Language-Translator
+git clone https://github.com/CodexCasper/Generative-AI <br>
+cd Generative-AI
 ### <span style="color: #FF5722;">2. Set Up the Virtual Environment</span>
 Note: The .venv folder, which contains the virtual environment and all project dependencies, has been excluded from version control via .gitignore to avoid uploading large files to GitHub.
 
